@@ -129,6 +129,10 @@
     background: #007aff;
     box-shadow: 3px 5px 0px rgba(6, 57, 113, 0.1);
     border-radius: 100px;
+    margin: 1em 0;
+  }
+  a:hover {
+    background: #007bffe5;
   }
 
   .align-center {
