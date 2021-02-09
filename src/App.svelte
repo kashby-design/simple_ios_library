@@ -87,7 +87,8 @@
     </div>
     <div class="purchase grid-item">
       <h2>Purchase for only 1$</h2>
-      <script src="https://gumroad.com/js/gumroad.js"></script><a
+      <script src="https://gumroad.com/js/gumroad.js"></script>
+      <a
         class="gumroad-button"
         href="https://gum.co/ZmlqZ"
         target="_blank"
@@ -115,6 +116,19 @@
     box-shadow: 8px 8px 0px #000000;
     grid-column-start: 1;
     grid-column-end: 3;
+  }
+
+  a {
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1.25em;
+    color: white;
+    padding: 1em 3em;
+    background: #007aff;
+    box-shadow: 3px 5px 0px rgba(6, 57, 113, 0.1);
+    border-radius: 100px;
   }
 
   .align-center {
